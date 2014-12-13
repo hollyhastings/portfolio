@@ -8,3 +8,4 @@ Courses included:
 ---
   - Intro to HTML and CSS
     - Project Design Given: ![design screenshot](Intro_to_HTML_andCSS_Design_basis.png)
+    - Mine so far: ![my HTML and CSS](Project1_progress.png)
